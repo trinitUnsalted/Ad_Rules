@@ -40,7 +40,8 @@ adblock = [
     "https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt", #去广告规则，酷安反馈反馈
     "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt", #去广告规则，酷安反馈反馈_Dns
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt", #AdRules AdBlock List Plus
-    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt" #AdRules DNS List
+    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt", #AdRules DNS List
+    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" #217heidai
 ]
 
 # 白名单规则
