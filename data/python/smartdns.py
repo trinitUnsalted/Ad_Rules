@@ -12,8 +12,8 @@ def convert_to_smartdns_format(input_file, output_file):
     count = 0
     with open(output_file, 'w') as file:
         # Add header comment
-        file.write("# SmartDNS rules for GOODBYEADS\n")
-        file.write("# Homepage: https://github.com/8680/GOODBYEADS\n")
+        file.write("# SmartDNS rules for Ad_Rules\n")
+        file.write("# Homepage: https://github.com/trinitUnsalted/Ad_Rules\n")
         file.write("# Format: address /domain/#\n\n")
         
         for line in lines:
