@@ -12,9 +12,9 @@ def extract_domains(input_file, output_file):
     count = 0
     with open(output_file, 'w') as file:
         # Add header comment
-        file.write("# GOODBYEADS Domain List\n")
-        file.write("# Homepage: https://github.com/8680/GOODBYEADS\n")
-        file.write("# Generated from GOODBYEADS DNS rules\n\n")
+        file.write("# Ad_Rules Domain List\n")
+        file.write("# Homepage: https://github.com/trinitUnsalted/Ad_Rules\n")
+        file.write("# Generated from Ad_Rules DNS rules\n\n")
         
         for line in lines:
             line = line.strip()
