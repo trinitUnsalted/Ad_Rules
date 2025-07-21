@@ -35,25 +35,16 @@ subprocess.run("cp ./data/mod/whitelist.txt ./tmp/allow01.txt", shell=True)
 
 # 拦截规则
 adblock = [
-    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt",
-    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
-    "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt",
-    "https://easylist-downloads.adblockplus.org/easylist.txt",
-    "https://easylist-downloads.adblockplus.org/easylistchina.txt",
-    "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
-    "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt",
-    "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-    "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
-    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+    "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt", #HyperADRules
+    "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt", #HyperADRules_Dns
+    "https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt", #去广告规则，酷安反馈反馈
+    "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #去广告规则，酷安反馈反馈_Dns
 ]
 
 # 白名单规则
 allow = [
-    "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt",
-    "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt",
-    "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt",
-    "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+    "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt", #去广告规则，酷安反馈反馈_Allow
+    "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt" #HyperADRules_Allow
 ]
 
 # 下载
