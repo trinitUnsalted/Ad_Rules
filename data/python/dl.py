@@ -38,13 +38,19 @@ adblock = [
     "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt", #HyperADRules
     "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt", #HyperADRules_Dns
     "https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt", #去广告规则，酷安反馈反馈
-    "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #去广告规则，酷安反馈反馈_Dns
+    "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt", #去广告规则，酷安反馈反馈_Dns
+    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt", #AdRules AdBlock List Plus
+    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt" #AdRules DNS List
 ]
 
 # 白名单规则
 allow = [
     "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt", #去广告规则，酷安反馈反馈_Allow
-    "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt" #HyperADRules_Allow
+    "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt", #HyperADRules_Allow
+    "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt", #茯苓允许列表
+    "https://file-git.trli.club/file-hosts/allow/Domains", #冷莫myallow
+    "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt", #jhsvip_allow
+    "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt" #anti-ad_allow
 ]
 
 # 下载
