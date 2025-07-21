@@ -133,24 +133,3 @@
     <img src="https://img.shields.io/badge/Ad%20Blocker%20Test-测试链接-orange?style=for-the-badge" alt="Ad Blocker Test"/>
   </a>
 </div>
-
-## 💬 完善项目
-
-希望大家可以提交 Issue 或者 Request 来帮助我完善规则，我审核之后会加入到规则，如果规则有误杀我会尽快处理。
-
-**提交范围**
-
-- 🚫 漏拦截的广告
-- ✅ 误杀的网站
-
-## ⭐ 感谢支持
-
-<p align='center'>
-  <a href="https://github.com/8680/GOODBYEADS/stargazers">
-    <img src="https://api.star-history.com/svg?repos=8680/GOODBYEADS&type=Date" alt="Star History Chart">
-  </a>
-</p>
-
-<div align="center">
-  <b>如果觉得有用，请点个⭐支持一下！</b>
-</div>
