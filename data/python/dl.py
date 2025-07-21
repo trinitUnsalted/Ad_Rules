@@ -41,7 +41,9 @@ adblock = [
     "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt", #去广告规则，酷安反馈反馈_Dns
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt", #AdRules AdBlock List Plus
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt", #AdRules DNS List
-    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" #217heidai
+    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt", #217heidai
+    "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt", #GOODBYEADS
+    "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt" #GOODBYEADS_Dns
 ]
 
 # 白名单规则
@@ -51,7 +53,8 @@ allow = [
     "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt", #茯苓允许列表
     "https://file-git.trli.club/file-hosts/allow/Domains", #冷莫myallow
     "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt", #jhsvip_allow
-    "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt" #anti-ad_allow
+    "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt", #anti-ad_allow
+    "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt" #GOODBYEADS_Allow
 ]
 
 # 下载
