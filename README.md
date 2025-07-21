@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">GOODBYEADS</h1>
+<h1 align="center">Ad Rules</h1>
 <h3 align="center">一个强力去广告的规则集合</h3>
 
 <p align="center">
