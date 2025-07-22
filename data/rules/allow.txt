@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/trinitUnsalted/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-07-22 09:00:25（北京时间）
+! Version: 2025-07-22 20:24:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 21425
+! Total count: 21420
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1051,7 +1051,6 @@
 @@||85tube.com^$generichide
 @@||8891.com.tw/js/v3/blueKai.js
 @@||88box.com/images/ad_images/
-@@||8maple.ru/*/ad.php
 @@||8muses.com^$generichide
 @@||8s8.eu/fa.js$domain=g9g.eu
 @@||8tm.net/static/img/fbpixel.png$~third-party
@@ -5072,7 +5071,6 @@
 @@||cisco.com/web/fw/lib/ntpagetag.js
 @@||citibank.com/*/branding/
 @@||citiintl.122.2o7.net/b/ss/citiintlemeapolandprod$domain=citibankonline.pl
-@@||citiintl.122.2o7.net^
 @@||citiintl.122.2o7.net^|
 @@||cityam.com/assets/js/dfp/dfp.js$~third-party
 @@||citynews.ca/*/get_ad_$domain=citynews.ca
@@ -5083,7 +5081,6 @@
 @@||citytv.com^$generichide
 @@||civilservicejobs.service.gov.uk^$stealth=dpi
 @@||cizgifilmlerizle.com/getvid?$stealth=referrer
-@@||cj.dotomi.com^
 @@||cj.dotomi.com^|
 @@||cl*.k5a.io^$script,xmlhttprequest,domain=finansavisen.no
 @@||cl-*.k5a.io/*.js^$domain=tv2.no
@@ -11311,7 +11308,6 @@
 @@||jsmov3.a.yximgs.com^$important
 @@||jspassport.ssl.qhimg.com^
 @@||jspassport.ssl.qhimg.com^$important
-@@||jsr9.com^$domain=jsr9.com
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
@@ -11402,7 +11398,6 @@
 @@||kdocs.cn^
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.xyz
-@@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.xyz|10co.me
 @@||kecapku.com^$generichide
 @@||keepassxc.org^
 @@||keepkoding.com^$generichide
@@ -13632,6 +13627,7 @@
 @@||oktatas.hu^$stealth=dpi
 @@||okteve.com/*&*=*&*&_=$xmlhttprequest,~third-party
 @@||olacast.live^$stealth=referrer
+@@||olamovies.cam^$generichide
 @@||olcdn.net/ads.adsense.ads1.js$script
 @@||oldskool.vip^$generichide
 @@||olegon.ru/pr/*.js
@@ -14411,6 +14407,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=nmac.to
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=nsfw247.to
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=olamovies.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=olarila.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onehack.us
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onehack.us|competentedigitale.ro
@@ -14974,7 +14971,6 @@
 @@||pandora.com^$generichide
 @@||panel.flops.ru/js/member/evercookie_init.js
 @@||panel.play.hosting/js/jquery.openxtag.js
-@@||pangzi.ca^$subdocument
 @@||panini.com.br/*/Amasty_GdprFrontendUi/
 @@||panjiachen.github.io^$generichide
 @@||pantagraph.com^$generichide
@@ -17907,7 +17903,6 @@
 @@||ssl.kaptcha.com/collect/$domain=securespend.com
 @@||ssl.msdk.qq.com^
 @@||ssl.p.jwpcdn.com/player/*/googima.js$domain=strmup.to
-@@||ssl.p.jwpcdn.com/player/plugins/vast/*/vast.js$domain=dizilost.com
 @@||ssl.p.jwpcdn.com/player/plugins/vast/*/vast.js$domain=hentaihaven.xxx
 @@||ssl.p.jwpcdn.com/player/plugins/vast/v/8.9.4/vast.js$xmlhttprequest,domain=avdbapi.com
 @@||ssl.p.jwpcdn.com/player/v/*/*.js$domain=faselhd.cafe
