@@ -2,7 +2,7 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/trinitUnsalted/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-07-24 09:00:55（北京时间）
+! Version: 2025-07-24 20:24:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 21258
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -1167,6 +1167,7 @@
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth=referrer
 @@||ac.dun.163.com^$important
 @@||ac.dun.163yun.com^
+@@||ac.ebis.ne.jp^
 @@||ac.kr^$stealth=dpi
 @@||ac.namu.la^$domain=arca.live,media,image,stealth=referrer
 @@||ac.namu.la^$image,domain=arca.live,stealth=referrer
@@ -8256,7 +8257,6 @@
 @@||gofobo.com^$generichide
 @@||gog.com/click.html$removeparam
 @@||gogoanime.*//page-recent-release*.html
-@@||gogoanime.cool^$generichide
 @@||gogodl.com/*/js/advertisement.js
 @@||gogoplay5.com^$subdocument
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
