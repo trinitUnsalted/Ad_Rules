@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/trinitUnsalted/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-07-25 09:00:20（北京时间）
+! Version: 2025-07-25 20:23:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 21430
+! Total count: 21428
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -13601,7 +13601,6 @@
 @@||officeredir.microsoft.com^$important
 @@||officespeech.platform.bing.com^$important
 @@||officeworks.com.au^*/site-tracker.js
-@@||official.paymaya.com^
 @@||official.paymaya.com^|
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js
 @@||oglaszamy24.pl/*js-css/reklamy/bannery/*/adv.js
@@ -18467,7 +18466,6 @@
 @@||stripe.com^$xmlhttprequest,domain=app.axenthost.com
 @@||strmrdr*/index.php?id=$stealth=referrer
 @@||strunz.com/skin^$stylesheet,domain=strunz.com
-@@||sts.wavewalt.me/scripts/v*/embedv*.min.js$domain=cricstream.me
 @@||sts.wavewalt.me/scripts/v*/embedv*.min.js$domain=cricstreams.re
 @@||studcat.infra.systems^
 @@||studioclassroom.com/ad/
