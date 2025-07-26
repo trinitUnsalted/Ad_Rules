@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/trinitUnsalted/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-07-25 20:23:31（北京时间）
+! Version: 2025-07-26 08:58:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 21428
+! Total count: 21429
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -15746,6 +15746,7 @@
 @@||pub.alimama.com/common/adzone/
 @@||pub.doubleverify.com/dvtag/$domain=time.com
 @@||pub.doubleverify.com/dvtag/$script,domain=time.com
+@@||pub.doubleverify.com/dvtag/*/pub.js$domain=bbc.com
 @@||pub.doubleverify.com/dvtag/signals/*/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
 @@||pub.doubleverify.com/signals/pub.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
 @@||pub.doubleverify.com/signals/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
