@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/trinitUnsalted/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-07-26 08:58:51（北京时间）
+! Version: 2025-07-26 20:21:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 21429
+! Total count: 21428
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1281,7 +1281,6 @@
 @@||act.vip.iqiyi.com^
 @@||act.zhuanzhuan.com^
 @@||act.zhuanzhuan.com^$important
-@@||action.metaffiliation.com^
 @@||action.metaffiliation.com^|
 @@||actiris.be/urchin.js
 @@||activation.sls.microsoft.com^$important
@@ -8325,7 +8324,6 @@
 @@||go.padstm.com/?id=$script,domain=mediatechnologycenter.info
 @@||go.redirectingat.com/*&url=$domain=forums.redflagdeals.com
 @@||go.redirectingat.com^$document
-@@||go.scorptec.com.au^
 @@||go.scorptec.com.au^|
 @@||go.tnshort.net^$stealth=referrer
 @@||go.wolfram-client.tk^$generichide
@@ -10507,7 +10505,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=typingtest.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.corriere.it
@@ -13601,6 +13599,7 @@
 @@||officeredir.microsoft.com^$important
 @@||officespeech.platform.bing.com^$important
 @@||officeworks.com.au^*/site-tracker.js
+@@||official.paymaya.com^
 @@||official.paymaya.com^|
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js
 @@||oglaszamy24.pl/*js-css/reklamy/bannery/*/adv.js
